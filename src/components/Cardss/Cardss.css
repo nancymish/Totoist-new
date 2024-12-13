@@ -1,0 +1,29 @@
+.cards{
+    display: flex;
+}
+.card1{
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    border: 1px solid rgba(115, 110, 110, 0.408);
+    margin-left: 60px;
+    width: 230px;
+    border-radius: 10px;
+}
+.first img{
+    width: 230px;
+    height: 150px;
+    background-color: rgb(230, 245, 247);
+    box-sizing: border-box;
+    border:1px solid rgba(115, 110, 110, 0.408) ;
+    border-radius: 10px 10px 0 0;
+}
+.second{
+    width: 200px;
+    margin-top: -400px;
+    text-align: center;
+
+}
+.second p{
+    color: gray;
+}

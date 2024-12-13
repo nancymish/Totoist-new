@@ -1,0 +1,52 @@
+.youtube{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+
+
+
+.middleware{
+   margin-top: 200px;
+   justify-content: center;
+   align-items: center;
+   display: flex;
+   flex-direction: column;
+}
+.paragraph h2{
+   font-size: 40px;
+   font-weight: 500;
+   color: rgb(28, 27, 27);
+}
+.paragraph p{
+   font-size: 20px;
+   font-weight: 400;
+   color: rgb(90, 86, 86);
+   text-align: center;
+}
+.choice ul{
+   display: flex;
+    list-style: none;
+    justify-content: space-between;
+    text-align: center;
+    margin: 30px;
+}
+.choice ul li{
+   display: inline-block;
+   margin: 10px 20px;
+   font-size: 18px;
+   cursor: pointer;
+   position: relative;
+   background-color:rgba(255, 192, 203, 0.223);
+   border: none;
+    color: #1c1b1b;
+    border-radius: 10px;
+    padding: 15px 20px;
+    align-items: center;
+    justify-content: center; 
+    font-weight: 500;  
+}
+.choice ul li:hover{
+   background-color: rgba(255, 192, 203, 0.355);
+}

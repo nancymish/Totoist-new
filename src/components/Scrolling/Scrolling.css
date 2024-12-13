@@ -1,0 +1,45 @@
+.main-div{
+    display: flex;
+    justify-content: space-between;
+    height: 50%;
+}
+.left-div{
+    width: 50%;
+    height: auto;
+    margin-top: 100px;
+    padding: 100px;
+}
+.first{
+    margin-bottom: 400px;
+}
+.heading1{
+    color: rgb(207, 147, 67);
+    font-size: 17px;
+}
+.first h4{
+    margin: 16px;
+}
+.first h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+.first p{
+    font-size: 20px;
+    color: gray;
+}
+.heading2{
+    color: rgb(17, 158, 139);
+    font-size: 17px;
+}
+.heading3{
+    color: tomato;
+    font-size: 17px;
+}
+.heading4{
+    color: rgb(49, 121, 51);
+    font-size: 17px;
+}
+.linkk{
+    text-decoration: none;
+    color: rgb(152, 152, 245);
+}
